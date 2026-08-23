@@ -1,0 +1,8 @@
+{
+  "name": "EarnX Rewards",
+  "description": "Earn real cash & daily rewards with tasks, games, spin wheel, and instant UPI withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
